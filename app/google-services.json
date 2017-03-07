@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613531371225",
+    "firebase_url": "https://lingo-4b7fd.firebaseio.com",
+    "project_id": "lingo-4b7fd",
+    "storage_bucket": "lingo-4b7fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613531371225:android:b3432c052f7f133c",
+        "android_client_info": {
+          "package_name": "com.example.clement.lingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613531371225-mma72kul2fhktkoeoidp4dtp8hje0bui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clement.lingo",
+            "certificate_hash": "e150e3bebec55b3160a12d592da97c029ddaf421"
+          }
+        },
+        {
+          "client_id": "613531371225-7hb2h04bv42vh2ekpjtbvkh8386ns6qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmFK3N-05YTS4909xgYL6aKirkNUTth0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613531371225-7hb2h04bv42vh2ekpjtbvkh8386ns6qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
